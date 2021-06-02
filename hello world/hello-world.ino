@@ -36,7 +36,7 @@ void setup()
 
   delay(750);
 
-  Keyboard.print("hello world, friend.");
+  Keyboard.print("Hello, world. Friend.");
 
   typeKey(KEY_RETURN);
 
