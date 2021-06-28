@@ -14,4 +14,4 @@ A Rubber Ducky Attack is a cyberattack in which a custom USB device emulates a U
 
 ## What is a rubber ducky Arduino?
 
-It's a rubber ducky but on Arduino. You can call it the cheaper version of the original rubber ducky.
+It's a rubber ducky but on Arduino. You can call it the cheaper version of the original rubber ducky or Duckuino / BadUSB / Arduino ducky.
