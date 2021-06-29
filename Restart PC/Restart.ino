@@ -1,3 +1,6 @@
+// DON'T WORRY
+// YOUR MACHINE WILL BE RESTARTED ONLY ONCE
+
 #include <Keyboard.h>
 #include <Mouse.h>
 
