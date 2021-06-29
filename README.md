@@ -1,5 +1,5 @@
 ## Rubber ducky Arduino
-_I DO NOT hold any responsibility for the bad use of this tool, remember this is for educational purposes only._ <br>
+_I DO NOT hold any responsibility for the bad use of this codes, remember this is for educational purposes only._ <br>
 _This is a free source, just look through the code for any commented warnings (for example in Window Jammer)_
 
 ## What is a rubber ducky?
